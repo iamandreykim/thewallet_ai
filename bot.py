@@ -11,7 +11,7 @@ from telegram.ext import (
 
 # === CONFIG ===
 BOT_TOKEN = os.getenv("8308640371:AAG4S29NebM6oZrfZClGvsCcPh4nj6xghho")
-WEBAPP_URL = os.getenv("WEBAPP_URL", "https://thewallet-ai.onrender.com")
+WEBAPP_URL = os.getenv("WEBAPP_URL", "https://thewallet-ai-t78i.onrender.com")
 
 DB_PATH = Path("wallet.db")
 
